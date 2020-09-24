@@ -1,2 +1,1 @@
-# github
-only for learning purpose
+learn git and github
